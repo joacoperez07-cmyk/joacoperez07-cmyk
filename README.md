@@ -91,11 +91,17 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 ## 📬 Contacto
 
 <p align="left">
-  <a href="mailto:joacoperez07@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/></a>
+  <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:joacoperez07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<br />
+
+> 💡 *Ingeniero enfocado en transformar datos ambientales en decisiones estratégicas. Este perfil documenta mi evolución técnica y pasión por la sustentabilidad.*
 
 ---
 
-💡 *Este perfil de GitHub funciona como un portfolio técnico donde documento proyectos de análisis de datos aplicados a problemáticas ambientales y de sustentabilidad.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joacoperez07-cmyk&color=green&style=flat-square&label=PERFIL+VISITADO" alt="joacoperez07-cmyk" />
+</p>
