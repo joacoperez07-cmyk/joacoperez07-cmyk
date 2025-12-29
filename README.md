@@ -77,6 +77,15 @@ Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasifica
 
 ---
 
+## 📜 Certificaciones Profesionales
+
+- 🎓 **Microsoft Power BI - Nivel Intermedio** – Microsoft  
+  📅 Octubre 2025  
+  🔗 [Ver certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)  
+  🆔 ID de Credencial: - 
+  👨‍🏫 Instructor: EmpleoTECNIA
+
+---
 ## 📬 Contacto
 
 * 📧 Email: [joacoperez07@gmail.com](mailto:joacoperez07@gmail.com)
