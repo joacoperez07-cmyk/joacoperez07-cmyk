@@ -79,21 +79,21 @@ Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasifica
 
 ## 📜 Certificaciones Profesionales
 
-- 🎓 **Microsoft Excel (Nivel Intermedio)** – Microsoft  
-  📅 Diciembre 2025  
-  🔗 [Ver certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing)
-  👨‍🏫 Instructor: EmpleoTECNIA
+- 🎓 **Microsoft Excel (Nivel Intermedio)** – Microsoft<br>  
+  📅 Diciembre 2025<br>  
+  🔗 [Ver certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing)<br>
+  👨‍🏫 Instructor: EmpleoTECNIA<br>
 
-- 🎓 **Data Analytics: Procesamiento, limpieza y visualización de Datos con Python y Power BI**   
-  📅 Diciembre 2025  
-  🔗 [Ver certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing)
-  🆔 ID de Credencial: FIQ-1270743-25_35_41603228
-  👨‍🏫 Instructor: José Ignacio Jerkovich - Facultad de Ing. Química (FIQ - UNL)
+- 🎓 **Data Analytics: Procesamiento, limpieza y visualización de Datos con Python y Power BI**<br>   
+  📅 Diciembre 2025<br>  
+  🔗 [Ver certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing)<br>
+  🆔 ID de Credencial: FIQ-1270743-25_35_41603228<br>
+  👨‍🏫 Instructor: José Ignacio Jerkovich - Facultad de Ing. Química (FIQ - UNL)<br>
 
-- 🎓 **Microsoft Power BI (Nivel Intermedio)** – Microsoft
-  📅 Octubre 2025  
-  🔗 [Ver certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)
-  👨‍🏫 Instructor: EmpleoTECNIA
+- 🎓 **Microsoft Power BI (Nivel Intermedio)** – Microsoft<br>
+  📅 Octubre 2025<br>  
+  🔗 [Ver certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)<br>
+  👨‍🏫 Instructor: EmpleoTECNIA<br>
 
 ---
 ## 📬 Contacto
