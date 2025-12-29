@@ -50,9 +50,9 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 | Proyecto | Descripción | Herramientas | Link |
 | :--- | :--- | :--- | :---: |
-| **Emisiones de GEI** | Dashboard interactivo (1990–2023) sobre tendencias y comparativas regionales. | `Power BI` `Datos Abiertos` | [Repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Emisiones-GEI) |
-| **Análisis CO₂** | Pipeline de análisis de datos del World Bank (ETL y EDA). | `Python` `Jupyter Notebook` | [Repositorio](https://github.com/joacoperez07-cmyk/emisiones-co2-python) |
-| **Agua y Saneamiento** | Análisis de acceso y desigualdades en América Latina y el Caribe. | `Power BI` `KPIs` | [Repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC) |
+| **Emisiones de GEI** | Dashboard interactivo (1990–2023) sobre tendencias y comparativas regionales. | `Power BI` `Open Data` | [📂](https://github.com/joacoperez07-cmyk/PowerBI-Emisiones-GEI) |
+| **Análisis CO₂** | Pipeline de análisis de datos del World Bank (procesos ETL y EDA). | `Python` `Jupyter` | [📂](https://github.com/joacoperez07-cmyk/emisiones-co2-python) |
+| **Agua y Saneamiento** | Análisis de acceso y desigualdades en América Latina y el Caribe (LAC). | `Power BI` `KPIs` | [📂](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC) |
 
 ---
 
