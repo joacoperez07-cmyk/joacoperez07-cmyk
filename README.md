@@ -55,7 +55,7 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990–2023)**, orientado a la visualización de tendencias y comparación entre regiones.
 
-**Herramientas:** Power BI, datos abiertos
+* **Herramientas:** Power BI, datos abiertos
 
 ---
 
@@ -64,7 +64,7 @@ Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990�
 
 Pipeline de análisis de datos de emisiones de CO₂ utilizando datos del **World Bank**, incluyendo ETL y análisis exploratorio.
 
-**Herramientas:** Python, Jupyter Notebook
+* **Herramientas:** Python, Jupyter Notebook
 
 ---
 
@@ -73,7 +73,7 @@ Pipeline de análisis de datos de emisiones de CO₂ utilizando datos del **Worl
 
 Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasificación regional y enfoque en desigualdades territoriales.
 
-**Herramientas:** Power BI, indicadores internacionales
+* **Herramientas:** Power BI, indicadores internacionales
 
 ---
 
