@@ -1,6 +1,7 @@
 # 👋 Hola, soy Joaquín Pérez
 
-**Ingeniero Ambiental | Data Analyst**
+**Ingeniero Ambiental | Análisis de datos**
+
 Santa Fe, Argentina
 
 ---
