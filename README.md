@@ -51,6 +51,7 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 ## 📌 Proyectos destacados
 
 ### 🔹 Power BI – Emisiones de Gases de Efecto Invernadero
+[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Emisiones-GEI)
 
 Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990–2023)**, orientado a la visualización de tendencias y comparación entre regiones.
 
@@ -58,23 +59,21 @@ Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990�
 
 ---
 
-### 🔹 Power BI – Cobertura de Agua y Saneamiento en América Latina y el Caribe
-
-[![Repo](https://img.shields.io/badge/Repositorio-GitHub-black)](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC)
-
-| Agua y Saneamiento LAC | Power BI | [🔗 Ver](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC) |
-
-Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasificación regional y enfoque en desigualdades territoriales.
-
-**Herramientas:** Power BI, indicadores internacionales
-
----
-
 ### 🔹 Python – Análisis de emisiones de CO₂
+[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/emisiones-co2-python)
 
 Pipeline de análisis de datos de emisiones de CO₂ utilizando datos del **World Bank**, incluyendo ETL y análisis exploratorio.
 
 **Herramientas:** Python, Jupyter Notebook
+
+---
+
+### 🔹 Power BI – Cobertura de Agua y Saneamiento en América Latina y el Caribe
+[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC)
+
+Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasificación regional y enfoque en desigualdades territoriales.
+
+**Herramientas:** Power BI, indicadores internacionales
 
 ---
 
