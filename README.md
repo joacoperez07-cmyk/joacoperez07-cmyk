@@ -42,9 +42,9 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ### Ingeniería y documentación
 
-* Indicadores ambientales
-* Análisis técnico
-* Documentación técnica
+![Ambiental](https://img.shields.io/badge/Indicadores_Ambientales-31a354?style=for-the-badge&logo=eco&logoColor=white)
+![Técnico](https://img.shields.io/badge/Análisis_Técnico-636363?style=for-the-badge&logo=target&logoColor=white)
+![Doc](https://img.shields.io/badge/Documentación_Técnica-0056b3?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 ---
 
