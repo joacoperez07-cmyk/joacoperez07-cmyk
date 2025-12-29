@@ -36,9 +36,8 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ### Desarrollo y control de versiones
 
-* Git
-* GitHub
-* Visual Studio Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Ingeniería y documentación
 
