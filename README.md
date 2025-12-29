@@ -30,23 +30,19 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ## 🧰 Tecnologías y herramientas
 
-### Análisis de datos
-
+### 📊 Análisis de Datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Desarrollo y control de versiones
+### ⚙️ Ingeniería y Documentación
+![Ambiental](https://img.shields.io/badge/Indicadores_Ambientales-31a354?style=for-the-badge&logo=leaf&logoColor=white)
+![Técnico](https://img.shields.io/badge/Análisis_Técnico-636363?style=for-the-badge&logo=discovery&logoColor=white)
+![Doc](https://img.shields.io/badge/Documentación_Técnica-0056b3?style=for-the-badge&logo=googledocs&logoColor=white)
 
+### 🛠️ Control de Versiones
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Ingeniería y documentación
-
-![Ambiental](https://img.shields.io/badge/Indicadores_Ambientales-31a354?style=for-the-badge&logo=eco&logoColor=white)
-![Técnico](https://img.shields.io/badge/Análisis_Técnico-636363?style=for-the-badge&logo=target&logoColor=white)
-![Doc](https://img.shields.io/badge/Documentación_Técnica-0056b3?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 ---
 
