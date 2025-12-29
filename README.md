@@ -62,6 +62,8 @@ Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990�
 
 [![Repo](https://img.shields.io/badge/Repositorio-GitHub-black)](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC)
 
+| Agua y Saneamiento LAC | Power BI | [🔗 Ver](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC) |
+
 Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasificación regional y enfoque en desigualdades territoriales.
 
 **Herramientas:** Power BI, indicadores internacionales
