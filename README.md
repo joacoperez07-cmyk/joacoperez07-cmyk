@@ -91,11 +91,10 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 ## 📬 Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:joacoperez07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joacoperez07@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/></a>
 </p>
-
 <br />
 
 > 💡 *Ingeniero enfocado en transformar datos ambientales en decisiones estratégicas. Este perfil documenta mi evolución técnica y pasión por la sustentabilidad.*
