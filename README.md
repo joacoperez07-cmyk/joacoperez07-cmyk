@@ -60,15 +60,13 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ## 📜 Certificaciones Profesionales
 
-## 📜 Certificaciones Profesionales
-
 <details>
   <summary>🎓 <b>Data Analytics: Procesamiento, Limpieza y Visualización</b></summary>
   <br>
   <blockquote>
     <b>Institución:</b> FIQ - UNL<br>
     <b>Herramientas:</b> Python & Power BI<br>
-    <a href="https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing">📄 Ver Certificado Oficial</a>
+    📄 <a href="https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing">Ver Certificado Oficial</a>
   </blockquote>
 </details>
 
@@ -77,7 +75,7 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
   <br>
   <blockquote>
     <b>Institución:</b> EmpleoTECNIA<br>
-    <a href="https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing">📄 Ver Certificado Oficial</a>
+    📄 <a href="https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing">Ver Certificado Oficial</a>
   </blockquote>
 </details>
 
@@ -86,7 +84,7 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
   <br>
   <blockquote>
     <b>Institución:</b> EmpleoTECNIA<br>
-    <a href="https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view">📄 Ver Certificado Oficial</a>
+    📄 <a href="https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view">Ver Certificado Oficial</a>
   </blockquote>
 </details>
 
