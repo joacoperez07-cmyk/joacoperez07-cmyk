@@ -99,13 +99,11 @@ Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasifica
 ## 📬 Contacto
 
 <p align="left">
-  <a href="mailto:joacoperez07@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-  </a>
-</p>
+  <a href="mailto:joacoperez07@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/></a>
+</p>>
+
 ---
 
 💡 *Este perfil de GitHub funciona como un portfolio técnico donde documento proyectos de análisis de datos aplicados a problemáticas ambientales y de sustentabilidad.*
