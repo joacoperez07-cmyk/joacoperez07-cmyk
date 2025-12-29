@@ -60,12 +60,22 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ## 📜 Certificaciones Profesionales
 
-* 🎓 **Data Analytics: Procesamiento, Limpieza y Visualización** *Facultad de Ingeniería Química (FIQ - UNL)* | `Python` `Power BI`  
-  📅 Dic 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing)
+### 🎓 Data Analytics: Procesamiento, Limpieza y Visualización
+* **Institución:** Facultad de Ingeniería Química (FIQ - UNL)
+* **Especialidad:** Python & Power BI
+* **Expedición:** Diciembre 2025
+* **Credencial:** [🔗 Validar Certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing)
 
-* 🎓 **Microsoft Excel (Nivel Intermedio)** *Microsoft / EMPLEOTECNIA* 📅 Oct 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing)
+### 🎓 Microsoft Excel (Nivel Intermedio)
+* **Institución:** Microsoft | EmpleoTECNIA
+* **Expedición:** Octubre 2025
+* **Credencial:** [🔗 Validar Certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing)
 
-* 🎓 **Microsoft Power BI (Nivel Intermedio)** *Microsoft / EMPLEOTECNIA* 📅 Oct 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)
+### 🎓 Microsoft Power BI (Nivel Intermedio)
+* **Institución:** Microsoft | EmpleoTECNIA
+* **Expedición:** Octubre 2025
+* **Credencial:** [🔗 Validar Certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)
+
 ---
 
 ## 📬 Contacto
