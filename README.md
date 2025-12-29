@@ -97,7 +97,7 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 </p>
 <br />
 
-> 💡 *Ingeniero enfocado en transformar datos ambientales en decisiones estratégicas. Este perfil documenta mi evolución técnica y pasión por la sustentabilidad.*
+> *🛠️ Portfolio Técnico: Repositorio dedicado a la documentación de pipelines ETL, análisis exploratorios y herramientas de visualización aplicadas al sector ambiental.*
 
 ---
 
