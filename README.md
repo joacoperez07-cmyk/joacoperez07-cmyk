@@ -99,7 +99,7 @@ Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasifica
 ## 📬 Contacto
 
 [![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacoperez07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaqu%C3%A1n%20P%C3%A9rez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-perez-649ab5259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaqu%C3%A1n%20P%C3%A9rez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquín-pérez-649ab5259/)
 
 ---
 
