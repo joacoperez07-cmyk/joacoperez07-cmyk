@@ -1,8 +1,10 @@
 # 👋 Hola, soy Joaquín Pérez
 
-**Ingeniero Ambiental | Análisis de datos**
-
-Santa Fe, Argentina
+<p align="left">
+  <img src="https://img.shields.io/badge/Ingeniero%20Ambiental-31a354?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Santa%20Fe,%20Argentina-gray?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
