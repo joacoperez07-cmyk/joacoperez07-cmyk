@@ -101,7 +101,7 @@ Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasifica
 <p align="left">
   <a href="mailto:joacoperez07@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
-  
+  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaquín-pérez-649ab5259">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
