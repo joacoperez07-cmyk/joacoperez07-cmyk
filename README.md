@@ -48,43 +48,24 @@ Mi formación me permite abordar los problemas desde una **mirada sistémica**, 
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos Destacados
 
-### 🔹 Power BI – Emisiones de Gases de Efecto Invernadero
-[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Emisiones-GEI)
-
-Dashboard interactivo para el análisis histórico de **emisiones de GEI (1990–2023)**, orientado a la visualización de tendencias y comparación entre regiones.
-
-* **Herramientas:** Power BI, datos abiertos
-
----
-
-### 🔹 Python – Análisis de emisiones de CO₂
-[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/emisiones-co2-python)
-
-Pipeline de análisis de datos de emisiones de CO₂ utilizando datos del **World Bank**, incluyendo ETL y análisis exploratorio.
-
-* **Herramientas:** Python, Jupyter Notebook
-
----
-
-### 🔹 Power BI – Cobertura de Agua y Saneamiento en América Latina y el Caribe
-[🔗 Ver repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC)
-
-Análisis de **acceso a agua potable y saneamiento** en LAC, con KPIs, clasificación regional y enfoque en desigualdades territoriales.
-
-* **Herramientas:** Power BI, indicadores internacionales
+| Proyecto | Descripción | Herramientas | Link |
+| :--- | :--- | :--- | :---: |
+| **Emisiones de GEI** | Dashboard interactivo (1990–2023) sobre tendencias y comparativas regionales. | `Power BI` `Datos Abiertos` | [📂 Repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Emisiones-GEI) |
+| **Análisis CO₂** | Pipeline de análisis de datos del World Bank (ETL y EDA). | `Python` `Jupyter Notebook` | [📂 Repositorio](https://github.com/joacoperez07-cmyk/emisiones-co2-python) |
+| **Agua y Saneamiento** | Análisis de acceso y desigualdades en América Latina y el Caribe. | `Power BI` `KPIs` | [📂 Repositorio](https://github.com/joacoperez07-cmyk/PowerBI-Cobertura-Agua-Saneamiento-LAC) |
 
 ---
 
 ## 📜 Certificaciones Profesionales
 
-| Certificación | Institución | Credencial |
-| :--- | :--- | :---: |
-| **Data Analytics: Python & Power BI** | FIQ - UNL | [🔗 Ver Certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing) |
-| **Microsoft Excel (Intermedio)** | Microsoft / EmpleoTECNIA | [🔗 Ver Certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing) |
-| **Microsoft Power BI (Intermedio)** | Microsoft / EmpleoTECNIA | [🔗 Ver Certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view) |
+* 🎓 **Data Analytics: Procesamiento, Limpieza y Visualización** *Facultad de Ingeniería Química (FIQ - UNL)* | `Python` `Power BI`  
+  📅 Dic 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1mdwr6TvCLD3EpYkbti2DKhrT9x7IOzrZ/view?usp=sharing)
 
+* 🎓 **Microsoft Excel (Nivel Intermedio)** *Microsoft / EMPLEOTECNIA* 📅 Oct 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1EfTKLYFbgZVzpVYocFp2T700rX37cKSF/view?usp=sharing)
+
+* 🎓 **Microsoft Power BI (Nivel Intermedio)** *Microsoft / EMPLEOTECNIA* 📅 Oct 2025 • [🔗 Ver certificado](https://drive.google.com/file/d/1H9IOSxC-Z3JjdnK03msstd-Ml_ouXrzL/view)
 ---
 
 ## 📬 Contacto
